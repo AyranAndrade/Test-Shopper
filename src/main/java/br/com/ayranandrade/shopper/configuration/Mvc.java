@@ -1,4 +1,4 @@
-package br.com.ayranandrade.configuration;
+package br.com.ayranandrade.shopper.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

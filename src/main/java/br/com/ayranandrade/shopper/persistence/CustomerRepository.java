@@ -1,6 +1,6 @@
-package br.com.ayranandrade.persistence;
+package br.com.ayranandrade.shopper.persistence;
 
-import br.com.ayranandrade.model.Customer;
+import br.com.ayranandrade.shopper.model.Customer;
 import javax.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 

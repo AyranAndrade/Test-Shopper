@@ -1,7 +1,7 @@
-package br.com.ayranandrade.controller;
+package br.com.ayranandrade.shopper.controller;
 
-import br.com.ayranandrade.model.Customer;
-import br.com.ayranandrade.persistence.CustomerRepository;
+import br.com.ayranandrade.shopper.model.Customer;
+import br.com.ayranandrade.shopper.persistence.CustomerRepository;
 import java.util.List;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;

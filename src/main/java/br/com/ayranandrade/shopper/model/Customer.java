@@ -1,4 +1,4 @@
-package br.com.ayranandrade.model;
+package br.com.ayranandrade.shopper.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
